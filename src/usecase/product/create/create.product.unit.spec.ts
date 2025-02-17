@@ -1,4 +1,3 @@
-import ProductService from "../../../domain/product/service/product.service";
 import { InputCreateProductDto } from "./create.product.dto";
 import CreateProductUseCase from "./create.product.usecase";
 
